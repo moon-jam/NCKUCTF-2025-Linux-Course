@@ -1,9 +1,9 @@
-# NCKUCTF 2025 Linux Course 1
+# NCKUCTF 2025 Linux Course
 
 ## Info
 
-- 簡報: https://p4nd4.dev/NCKUCTF-2025-linux-course-1
-- 錄影: Comming Soon
+- 簡報 1: https://p4nd4.dev/NCKUCTF-2025-linux-course-1
+- 簡報 2: https://p4nd4.dev/NCKUCTF-2025-linux-course-2
 - CTFd: https://class.nckuctf.org/
 
 ## Lab
@@ -38,10 +38,6 @@
 
     https://github.com/moon-jam/NCKUCTF-2025-Linux-Course-1
     ```
-- [Lab - Strings](https://class.nckuctf.org/challenges#Strings-193)
-    ```plaintext
-    
-    ```
 - [Lab - Compress](https://class.nckuctf.org/challenges#Compress-189)
     ```plaintext
     Decompress the file in `lab-compress` and find the flag
@@ -61,4 +57,24 @@
     Author: `Panda`
 
     https://github.com/moon-jam/NCKUCTF-2025-Linux-Course-1
+    ```
+- [Lab - Caesar](https://class.nckuctf.org/challenges#Caesar-194)
+    ```plaintext
+    貓熊太調皮了，把這串字轉亂了，幫他復原吧
+
+    NCKUCTF{n@3$4ccc_slslsl_a4yol_1d_d0_y4frsej}
+
+    flag format: NCKUCTF{...}
+
+    Author: Panda
+    ```
+- [Lab - Boom Python](https://class.nckuctf.org/challenges#Boom%20Python-195)
+    ```plaintext
+    有些神秘的挑戰在 `lab-boom-python/chal.py` 裡面，加油！
+
+    flag format: NCKUCTF{...}
+
+    Author: Panda
+
+    https://github.com/moon-jam/NCKUCTF-2025-Linux-Course-1.git
     ```
